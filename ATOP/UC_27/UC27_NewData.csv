@@ -1,0 +1,251 @@
+Test Case ID,Test Run Id,Failed Steps,Exception Name,Execution Time for test step,Test Step Update Date,Test Case Update Date,Data Sheet Update Date,Failure Date for a step,Failure type- Update Date,Predecessor TestCase ID,Successor TestCase ID,Buckets Items
+457,122,5.1,TimeoutException,7/10/2019 17:16,7/9/2019 17:16,7/9/2019 17:16,7/9/2019 17:16,7/10/2019 17:16,07/12/19,NULL,457,Automation Issue
+457,122,5.7,"Verification Failed. Expected text: ""Manual Handling"" Not found in element",7/10/2019 17:16,7/9/2019 17:16,7/9/2019 17:16,7/9/2019 17:16,7/10/2019 17:16,07/12/19,457,457,Application Issue
+457,122,5.8,"Verification Failed. Expected value: ""Name:'data_policiy_id' ""No such attribute",7/10/2019 17:16,7/9/2019 17:16,7/9/2019 17:16,7/9/2019 17:16,7/10/2019 17:16,07/11/19,457,457,Application Issue
+457,122,5.9,"Verification Failed. Expected text: ""Manual Handling"" Not found in element",7/10/2019 17:16,7/9/2019 17:16,7/9/2019 17:16,7/9/2019 17:16,7/10/2019 17:16,07/12/19,457,457,Automation Issue
+457,122,6.1,TOO_MANY_ROWS Exception,7/10/2019 17:16,7/9/2019 17:16,7/9/2019 17:16,7/9/2019 17:16,7/10/2019 17:16,07/11/19,457,457,Data related Issue
+457,122,6.2,"Verification Failed. Expected value: ""Name:'q' ""No such attribute",7/10/2019 17:16,7/9/2019 17:16,7/9/2019 17:16,7/9/2019 17:16,7/10/2019 17:16,07/12/19,457,457,Application Issue
+457,122,6.3,"Verification Failed. Expected text: ""Manual Handling"" Not found in element",7/10/2019 17:16,7/9/2019 17:16,7/9/2019 17:16,7/9/2019 17:16,7/10/2019 17:16,07/11/19,457,457,Automation Issue
+457,122,6.4,"Verification Failed. Expected text: ""Manual Handling"" Not found in element",7/10/2019 17:16,7/9/2019 17:16,7/9/2019 17:16,7/9/2019 17:16,7/10/2019 17:16,07/12/19,457,457,Automation Issue
+457,122,6.5,TOO_MANY_ROWS Exception,7/10/2019 17:16,7/9/2019 17:16,7/9/2019 17:16,7/9/2019 17:16,7/10/2019 17:16,07/10/19,457,457,Data related Issue
+457,122,7.1,"Verification Failed. Expected text: ""Manual Handling"" Not found in element",7/10/2019 17:16,7/9/2019 17:16,7/9/2019 17:16,7/9/2019 17:16,7/10/2019 17:16,07/11/19,457,457,Automation Issue
+457,122,7.4,"Inavlid selector:Unable to locate element: {""method"":""xpath"",""selector"":""//div[@id=""FindPolicyScreen-FNOLWizardFindPolicyPanelSet-PolicyResultLV-0-Insured""]/div/div""}",7/10/2019 17:16,7/9/2019 17:16,7/9/2019 17:16,7/9/2019 17:16,7/10/2019 17:16,07/10/19,457,457,Automation Issue
+457,122,7.5,"Verification Failed. Expected text: ""Manual Handling"" Not found in element",7/10/2019 17:16,7/9/2019 17:16,7/9/2019 17:16,7/9/2019 17:16,7/10/2019 17:16,07/10/19,457,457,Automation Issue
+457,122,7.6,JsonException,7/10/2019 17:16,7/9/2019 17:16,7/9/2019 17:16,7/9/2019 17:16,7/10/2019 17:16,07/12/19,457,457,Automation Issue
+457,122,7.7,ConnectionClosedException,7/10/2019 17:16,7/9/2019 17:16,7/9/2019 17:16,7/9/2019 17:16,7/10/2019 17:16,07/11/19,457,457,Automation Issue
+457,122,7.8,"Verification Failed. Expected text: ""Manual Handling"" Not found in element",7/10/2019 17:16,7/9/2019 17:16,7/9/2019 17:16,7/9/2019 17:16,7/10/2019 17:16,07/10/19,457,457,Automation Issue
+457,122,7.9,Verfication Failed. ElementNotVisibleException: {id='Submit'},7/10/2019 17:16,7/9/2019 17:16,7/9/2019 17:16,7/9/2019 17:16,7/10/2019 17:16,07/12/19,457,457,Application Issue
+457,122,7.1,"Verification Failed. Expected text: ""Manual Handling"" Not found in element",7/10/2019 17:16,7/9/2019 17:16,7/9/2019 17:16,7/9/2019 17:16,7/10/2019 17:16,07/12/19,457,457,Automation Issue
+457,122,7.11,ConnectionClosedException,7/10/2019 17:16,7/9/2019 17:16,7/9/2019 17:16,7/9/2019 17:16,7/10/2019 17:16,07/10/19,457,457,Automation Issue
+457,122,7.12,"Verification Failed. Expected text: ""Manual Handling"" Not found in element",7/10/2019 17:16,7/9/2019 17:16,7/9/2019 17:16,7/9/2019 17:16,7/10/2019 17:16,07/11/19,457,457,Automation Issue
+457,122,7.13,Unable to set date: java.time.DateTimeException,7/10/2019 17:16,7/9/2019 17:16,7/9/2019 17:16,7/9/2019 17:16,7/10/2019 17:16,07/10/19,457,457,Timing Exception
+457,122,7.14,"Verification Failed. Expected text: ""Manual Handling"" Not found in element",7/10/2019 17:16,7/9/2019 17:16,7/9/2019 17:16,7/9/2019 17:16,7/10/2019 17:16,07/12/19,457,457,Automation Issue
+457,122,7.16,constarint database exception,7/10/2019 17:16,7/9/2019 17:16,7/9/2019 17:16,7/9/2019 17:16,7/10/2019 17:16,07/10/19,457,457,Data related Issue
+457,122,8.1,ConnectionClosedException,7/10/2019 17:16,7/9/2019 17:16,7/9/2019 17:16,7/9/2019 17:16,7/10/2019 17:16,07/12/19,457,457,Automation Issue
+457,122,8.2,"Verification Failed. Expected text: ""Manual Handling"" Not found in element",7/10/2019 17:16,7/9/2019 17:16,7/9/2019 17:16,7/9/2019 17:16,7/10/2019 17:16,07/12/19,457,457,Automation Issue
+457,122,8.3,"TimeoutException: Message: timeout(Session info: chrome=71.0.3578.98)(Driver info: chromedriver=2.42.591088 (7b2b2dca23cca0862f674758c9a3933e685c27d5),platform=Windows NT 10.0.17763 x86_64)",7/10/2019 17:16,7/9/2019 17:16,7/9/2019 17:16,7/9/2019 17:16,7/10/2019 17:16,07/12/19,457,457,Automation Issue
+457,122,8.4,"Verification Failed. Expected text: ""Manual Handling"" Not found in element",7/10/2019 17:16,7/9/2019 17:16,7/9/2019 17:16,7/9/2019 17:16,7/10/2019 17:16,07/11/19,457,457,Automation Issue
+457,122,8.5,DUP_VAL_ON_INDEX Exception,7/10/2019 17:16,7/9/2019 17:16,7/9/2019 17:16,7/9/2019 17:16,7/10/2019 17:16,07/10/19,457,457,Automation Issue
+457,122,8.6,"Verification Failed. Expected text: ""Manual Handling"" Not found in element",7/10/2019 17:16,7/9/2019 17:16,7/9/2019 17:16,7/9/2019 17:16,7/10/2019 17:16,07/11/19,457,457,Automation Issue
+457,122,9.1,ConnectionClosedException,7/10/2019 17:16,7/9/2019 17:16,7/9/2019 17:16,7/9/2019 17:16,7/10/2019 17:16,07/11/19,457,457,Automation Issue
+457,122,9.2,"Verification Failed. Expected text: ""Manual Handling"" Not found in element",7/10/2019 17:16,7/9/2019 17:16,7/9/2019 17:16,7/9/2019 17:16,7/10/2019 17:16,07/11/19,457,457,Automation Issue
+457,122,9.6,org.openqa.selenium.NoSuchFrameException: Cant not find the frame,7/10/2019 17:16,7/9/2019 17:16,7/9/2019 17:16,7/9/2019 17:16,7/10/2019 17:16,07/12/19,457,457,Automation Issue
+457,122,9.7,DUP_VAL_ON_INDEX Exception,7/10/2019 17:16,7/9/2019 17:16,7/9/2019 17:16,7/9/2019 17:16,7/10/2019 17:16,07/11/19,457,457,Data related Issue
+457,122,9.8,org.openqa.selenium.NoSuchFrameException: Cant not find the frame,7/10/2019 17:16,7/9/2019 17:16,7/9/2019 17:16,7/9/2019 17:16,7/10/2019 17:16,07/10/19,457,457,Automation Issue
+457,122,9.1,"Verification Failed. Expected text: ""Manual Handling"" Not found in element",7/10/2019 17:16,7/9/2019 17:16,7/9/2019 17:16,7/9/2019 17:16,7/10/2019 17:16,07/12/19,457,457,Automation Issue
+457,122,9.12,JsonException,7/10/2019 17:16,7/9/2019 17:16,7/9/2019 17:16,7/9/2019 17:16,7/10/2019 17:16,07/11/19,457,457,Automation Issue
+457,122,9.13,org.openqa.selenium.StaleElementReferenceException,7/10/2019 17:16,7/9/2019 17:16,7/9/2019 17:16,7/9/2019 17:16,7/10/2019 17:16,07/12/19,457,457,Application Issue
+457,122,9.14,DUP_VAL_ON_INDEX Exception,7/10/2019 17:16,7/9/2019 17:16,7/9/2019 17:16,7/9/2019 17:16,7/10/2019 17:16,07/11/19,457,457,Data related Issue
+457,122,9.15,org.openqa.selenium.StaleElementReferenceException,7/10/2019 17:16,7/9/2019 17:16,7/9/2019 17:16,7/9/2019 17:16,7/10/2019 17:16,07/10/19,457,457,Application Issue
+457,122,9.16,"Verification Failed. Expected text: ""Manual Handling"" Not found in element",7/10/2019 17:16,7/9/2019 17:16,7/9/2019 17:16,7/9/2019 17:16,7/10/2019 17:16,07/11/19,457,457,Automation Issue
+457,122,10.1,TOO_MANY_ROWS Exception,7/10/2019 17:16,7/9/2019 17:16,7/9/2019 17:16,7/9/2019 17:16,7/10/2019 17:16,07/11/19,457,457,Data related Issue
+457,122,10.2,Verfication Failed. ElementNotVisibleException: {class='Data_policiy '},7/10/2019 17:16,7/9/2019 17:16,7/9/2019 17:16,7/9/2019 17:16,7/10/2019 17:16,07/12/19,457,457,Application Issue
+457,122,10.3,"Verification Failed. Expected text: ""Manual Handling"" Not found in element",7/10/2019 17:16,7/9/2019 17:16,7/9/2019 17:16,7/9/2019 17:16,7/10/2019 17:16,07/10/19,457,457,Automation Issue
+457,122,10.4,TOO_MANY_ROWS Exception,7/10/2019 17:16,7/9/2019 17:16,7/9/2019 17:16,7/9/2019 17:16,7/10/2019 17:16,07/10/19,457,457,Data related Issue
+457,122,10.5,Verfication Failed. ElementNotVisibleException: {xpath=//*[@name='customer type']/option[1]},7/10/2019 17:16,7/9/2019 17:16,7/9/2019 17:16,7/9/2019 17:16,7/10/2019 17:16,07/12/19,457,457,Application Issue
+457,122,10.7,"Verification Failed. Expected text: ""Manual Handling"" Not found in element",7/10/2019 17:16,7/9/2019 17:16,7/9/2019 17:16,7/9/2019 17:16,7/10/2019 17:16,07/11/19,457,457,Automation Issue
+457,122,10.8,Intra-enterprise and inter-enterprise integration Exception,7/10/2019 17:16,7/9/2019 17:16,7/9/2019 17:16,7/9/2019 17:16,7/10/2019 17:16,07/10/19,457,457,Infrastrature Issue
+457,122,10.9,constarint database exception,7/10/2019 17:16,7/9/2019 17:16,7/9/2019 17:16,7/9/2019 17:16,7/10/2019 17:16,07/10/19,457,457,Data related Issue
+457,122,10.1,JsonException,7/10/2019 17:16,7/9/2019 17:16,7/9/2019 17:16,7/9/2019 17:16,7/10/2019 17:16,07/10/19,457,457,Automation Issue
+457,122,10.11,"Verification Failed. Expected text: ""Manual Handling"" Not found in element",7/10/2019 17:16,7/9/2019 17:16,7/9/2019 17:16,7/9/2019 17:16,7/10/2019 17:16,07/10/19,457,405,Automation Issue
+405,122,5.7,ODBC Exception error: 40 - Could not open a connection to SQL Server,7/10/2019 18:08,7/8/2019 17:16,7/8/2019 17:16,7/8/2019 17:16,7/10/2019 18:08,07/11/19,457,405,Infrastrature Issue
+405,122,5.8,"Verification Failed. Expected text: ""Manual Handling"" Not found in element",7/10/2019 18:08,7/8/2019 17:16,7/8/2019 17:16,7/8/2019 17:16,7/10/2019 18:08,07/11/19,405,405,Automation Issue
+405,122,5.9,ConnectionClosedException,7/10/2019 18:08,7/8/2019 17:16,7/8/2019 17:16,7/8/2019 17:16,7/10/2019 18:08,07/12/19,405,405,Automation Issue
+405,122,6.1,"Verification Failed. Expected text: ""Manual Handling"" Not found in element",7/10/2019 18:08,7/8/2019 17:16,7/8/2019 17:16,7/8/2019 17:16,7/10/2019 18:08,07/10/19,405,405,Automation Issue
+405,122,6.2,Verification Failed: org.openqa.selenium.NoAlertPresent,7/10/2019 18:08,7/8/2019 17:16,7/8/2019 17:16,7/8/2019 17:16,7/10/2019 18:08,07/12/19,405,405,Application Issue
+405,122,6.3,"Verification Failed. Expected text: ""Manual Handling"" Not found in element",7/10/2019 18:08,7/8/2019 17:16,7/8/2019 17:16,7/8/2019 17:16,7/10/2019 18:08,07/10/19,405,405,Automation Issue
+405,122,6.4,Command duration or timeout: 0 milliseconds,7/10/2019 18:08,7/8/2019 17:16,7/8/2019 17:16,7/8/2019 17:16,7/10/2019 18:08,07/10/19,405,405,Timing Issue
+405,122,6.5,"Verification Failed. Expected text: ""Manual Handling"" Not found in element",7/10/2019 18:08,7/8/2019 17:16,7/8/2019 17:16,7/8/2019 17:16,7/10/2019 18:08,07/12/19,405,405,Automation Issue
+405,122,7.1,"WebApplicationException(String message, Throwable cause, Response.Status status)",7/10/2019 18:08,7/8/2019 17:16,7/8/2019 17:16,7/8/2019 17:16,7/10/2019 18:08,07/12/19,405,405,Application Issue
+405,122,7.4,"Verification Failed. Expected text: ""Manual Handling"" Not found in element",7/10/2019 18:09,7/8/2019 17:16,7/8/2019 17:16,7/8/2019 17:16,7/10/2019 18:09,07/12/19,405,405,Automation Issue
+405,122,7.5,ErrorInResponseException,7/10/2019 18:09,7/8/2019 17:16,7/8/2019 17:16,7/8/2019 17:16,7/10/2019 18:09,07/12/19,405,405,Automation Issue
+405,122,7.6,"Verification Failed. Expected text: ""Manual Handling"" Not found in element",7/10/2019 18:09,7/8/2019 17:16,7/8/2019 17:16,7/8/2019 17:16,7/10/2019 18:09,07/12/19,405,405,Automation Issue
+405,122,7.7,TimeLimitExceedEception: Message: timeout(Session info: chrome=64.0.3578.98),7/10/2019 18:09,7/8/2019 17:16,7/8/2019 17:16,7/8/2019 17:16,7/10/2019 18:09,07/10/19,405,405,Timing Issue
+405,122,7.8,JsonException,7/10/2019 18:09,7/8/2019 17:16,7/8/2019 17:16,7/8/2019 17:16,7/10/2019 18:09,07/10/19,405,405,Automation Issue
+405,122,7.9,TimeLimitExceedEception: Message: timeout(Session info: chrome=64.0.3578.98),7/10/2019 18:09,7/8/2019 17:16,7/8/2019 17:16,7/8/2019 17:16,7/10/2019 18:09,07/10/19,405,405,Timing Issue
+405,122,7.1,"Verification Failed. Expected text: ""Manual Handling"" Not found in element",7/10/2019 18:09,7/8/2019 17:16,7/8/2019 17:16,7/8/2019 17:16,7/10/2019 18:09,07/12/19,405,405,Automation Issue
+405,122,7.11,Unhandel data exception: unable to stroe the data,7/10/2019 18:09,7/8/2019 17:16,7/8/2019 17:16,7/8/2019 17:16,7/10/2019 18:09,07/12/19,405,405,Data related Issue
+405,122,7.12,"Verification Failed. Expected text: ""Manual Handling"" Not found in element",7/10/2019 18:09,7/8/2019 17:16,7/8/2019 17:16,7/8/2019 17:16,7/10/2019 18:09,07/10/19,405,405,Automation Issue
+405,122,7.13,ErrorInResponseException,7/10/2019 18:09,7/8/2019 17:16,7/8/2019 17:16,7/8/2019 17:16,7/10/2019 18:09,07/10/19,405,405,Automation Issue
+405,122,7.14,constarint database exception,7/10/2019 18:09,7/8/2019 17:16,7/8/2019 17:16,7/8/2019 17:16,7/10/2019 18:09,07/10/19,405,405,Data related Issue
+405,122,7.16,org.openqa.selenium.NoSuchSessionException: Cant not find the frame,7/10/2019 18:09,7/8/2019 17:16,7/8/2019 17:16,7/8/2019 17:16,7/10/2019 18:09,07/10/19,405,405,Automation Issue
+405,122,8.2,Intra-enterprise and inter-enterprise integration Exception,7/10/2019 18:09,7/8/2019 17:16,7/8/2019 17:16,7/8/2019 17:16,7/10/2019 18:09,07/10/19,405,405,Infrastrature Issue
+405,122,8.3,"Verification Failed. Expected text: ""Manual Handling"" Not found in element",7/10/2019 18:09,7/8/2019 17:16,7/8/2019 17:16,7/8/2019 17:16,7/10/2019 18:09,07/11/19,405,405,Automation Issue
+405,122,9.1,Policiy_Data:  Bent Larsen has been created and stored in DT_Policiy_data,7/10/2019 18:10,7/8/2019 17:16,7/8/2019 17:16,7/8/2019 17:16,7/10/2019 18:10,07/11/19,405,405,Automation Issue
+405,122,9.2,"Verification Failed. Expected text: ""Manual Handling"" Not found in element",7/10/2019 18:10,7/8/2019 17:16,7/8/2019 17:16,7/8/2019 17:16,7/10/2019 18:10,07/11/19,405,405,Automation Issue
+405,122,9.6,constarint database exception,7/10/2019 18:10,7/8/2019 17:16,7/8/2019 17:16,7/8/2019 17:16,7/10/2019 18:10,07/10/19,405,405,Data related Issue
+405,122,9.7,org.openqa.selenium.NoSuchSessionException: Cant not find the frame,7/10/2019 18:10,7/8/2019 17:16,7/8/2019 17:16,7/8/2019 17:16,7/10/2019 18:10,07/10/19,405,405,Automation Issue
+405,122,9.8,"Verification Failed. Expected text: ""Manual Handling"" Not found in element",7/10/2019 18:10,7/8/2019 17:16,7/8/2019 17:16,7/8/2019 17:16,7/10/2019 18:10,07/12/19,405,405,Automation Issue
+405,122,9.1,org.openqa.selenium.NoSuchSessionException: Cant not find the frame,7/10/2019 18:10,7/8/2019 17:16,7/8/2019 17:16,7/8/2019 17:16,7/10/2019 18:10,07/11/19,405,405,Automation Issue
+405,122,9.12,ErrorInResponseException,7/10/2019 18:10,7/8/2019 17:16,7/8/2019 17:16,7/8/2019 17:16,7/10/2019 18:10,07/11/19,405,405,Automation Issue
+405,122,9.13,"Verification Failed. Expected text: ""Manual Handling"" Not found in element",7/10/2019 18:10,7/8/2019 17:16,7/8/2019 17:16,7/8/2019 17:16,7/10/2019 18:10,07/10/19,405,405,Automation Issue
+405,122,9.14,Unhandel data exception: unable to stroe the data,7/10/2019 18:10,7/8/2019 17:16,7/8/2019 17:16,7/8/2019 17:16,7/10/2019 18:10,07/11/19,405,405,Data related Issue
+405,122,9.15,"Verification Failed. Expected text: ""Manual Handling"" Not found in element",7/10/2019 18:10,7/8/2019 17:16,7/8/2019 17:16,7/8/2019 17:16,7/10/2019 18:10,07/11/19,405,405,Automation Issue
+405,122,9.16,Using of Method in appropriate time:illegalstatmentException,7/10/2019 18:10,7/8/2019 17:16,7/8/2019 17:16,7/8/2019 17:16,7/10/2019 18:10,07/11/19,405,405,Application Issue
+405,122,10.1,Information retrieval systems,7/10/2019 18:10,7/8/2019 17:16,7/8/2019 17:16,7/8/2019 17:16,7/10/2019 18:10,07/11/19,405,405,Automation Issue
+405,122,10.2,"Verification Failed. Expected text: ""Manual Handling"" Not found in element",7/10/2019 18:10,7/8/2019 17:16,7/8/2019 17:16,7/8/2019 17:16,7/10/2019 18:10,07/10/19,405,405,Automation Issue
+405,122,10.3,org.openqa.selenium.ElementNotSelectableException,7/10/2019 18:10,7/8/2019 17:16,7/8/2019 17:16,7/8/2019 17:16,7/10/2019 18:10,07/11/19,405,405,Application Issue
+405,122,10.4,Policiy_number:  Bent Larsen has been created and stored in DT_Policiy_number,7/10/2019 18:11,7/8/2019 17:16,7/8/2019 17:16,7/8/2019 17:16,7/10/2019 18:11,07/11/19,405,405,Automation Issue
+405,122,10.5,Custome Database Exception,7/10/2019 18:11,7/8/2019 17:16,7/8/2019 17:16,7/8/2019 17:16,7/10/2019 18:11,07/10/19,405,405,Data related Issue
+405,122,10.7,"Verification Failed. Expected text: ""Manual Handling"" Not found in element",7/10/2019 18:11,7/8/2019 17:16,7/8/2019 17:16,7/8/2019 17:16,7/10/2019 18:11,07/11/19,405,405,Automation Issue
+405,122,9.12,Unable to set date: java.time.DateTimeException,7/11/2019 5:42,7/8/2019 17:16,7/8/2019 17:16,7/8/2019 17:16,7/11/2019 5:42,07/10/19,551,560,Timing Issue
+405,122,10.9,"Unable to find object with specified locator (""Id""=""gw-south-panel"")",7/10/2019 18:11,7/8/2019 17:16,7/8/2019 17:16,7/8/2019 17:16,7/10/2019 18:11,07/10/19,405,405,Automation Issue
+405,122,10.1,"Verification Failed. Expected text: ""Manual Handling"" Not found in element",7/10/2019 18:11,7/8/2019 17:16,7/8/2019 17:16,7/8/2019 17:16,7/10/2019 18:11,07/12/19,405,405,Automation Issue
+405,122,10.11,"Unable to find object with specified locator (""LinkText""=""Admin_customer"")",7/10/2019 18:11,7/8/2019 17:16,7/8/2019 17:16,7/8/2019 17:16,7/10/2019 18:11,07/12/19,405,371,Automation Issue
+371,122,9.3,"Verification Failed. Expected text: ""Step 6 of 6: Save and Assign Claim"" Not found in element",7/10/2019 19:54,7/8/2019 17:16,7/8/2019 17:16,7/8/2019 17:16,7/10/2019 19:54,07/11/19,405,371,Automation Issue
+371,122,9.7,Custome Database Exception,7/10/2019 19:54,7/8/2019 17:16,7/8/2019 17:16,7/8/2019 17:16,7/10/2019 19:54,07/10/19,371,371,Data related Issue
+371,122,9.8,"Verification Failed. Expected text: ""Step 6 of 6: Save and Assign Claim"" Not found in element",7/10/2019 19:54,7/8/2019 17:16,7/8/2019 17:16,7/8/2019 17:16,7/10/2019 19:54,07/11/19,371,370,Automation Issue
+370,122,9.3,Intra-enterprise and inter-enterprise integration Exception,7/10/2019 19:58,7/8/2019 17:16,7/8/2019 17:16,7/8/2019 17:16,7/10/2019 19:58,07/12/19,371,370,Infrastrature Issue
+370,122,9.4,IndexOutOfRangeException,7/10/2019 19:58,7/8/2019 17:16,7/8/2019 17:16,7/8/2019 17:16,7/10/2019 19:58,07/10/19,370,370,Application Issue
+370,122,9.5,"Verification Failed. Expected text: ""Step 6 of 6: Save and Assign Claim"" Not found in element",7/10/2019 19:58,7/8/2019 17:16,7/8/2019 17:16,7/8/2019 17:16,7/10/2019 19:58,07/10/19,370,370,Automation Issue
+370,122,9.6,ErrorInResponseException,7/10/2019 19:58,7/8/2019 17:16,7/8/2019 17:16,7/8/2019 17:16,7/10/2019 19:58,07/11/19,370,370,Automation Issue
+370,122,9.7,"Verification Failed. Expected text: ""Step 6 of 6: Save and Assign Claim"" Not found in element",7/10/2019 19:58,7/8/2019 17:16,7/8/2019 17:16,7/8/2019 17:16,7/10/2019 19:58,07/10/19,370,370,Automation Issue
+370,122,9.8,"NoSuchFrameException(""Cannot find frame: "" Policy_Page);",7/10/2019 19:58,7/8/2019 17:16,7/8/2019 17:16,7/8/2019 17:16,7/10/2019 19:58,07/11/19,370,369,Automation Issue
+369,122,9.3,"Verification Failed. Expected text: ""Step 6 of 6: Save and Assign Claim"" Not found in element",7/10/2019 20:02,7/8/2019 17:16,7/8/2019 17:16,7/8/2019 17:16,7/10/2019 20:02,07/10/19,370,369,Automation Issue
+369,122,9.4,ErrorInResponseException,7/10/2019 20:02,7/8/2019 17:16,7/8/2019 17:16,7/8/2019 17:16,7/10/2019 20:02,07/11/19,369,369,Automation Issue
+369,122,9.5,UnableToCreateProfileException,7/10/2019 20:02,7/8/2019 17:16,7/8/2019 17:16,7/8/2019 17:16,7/10/2019 20:02,07/10/19,369,369,Automation Issue
+369,122,9.8,"Verification Failed. Expected text: ""Step 6 of 6: Save and Assign Claim"" Not found in element",7/10/2019 20:02,7/8/2019 17:16,7/8/2019 17:16,7/8/2019 17:16,7/10/2019 20:02,07/10/19,369,431,Automation Issue
+369,122,9.12,Unable to set date: java.time.DateTimeException,7/11/2019 5:42,7/8/2019 17:16,7/8/2019 17:16,7/8/2019 17:16,7/11/2019 5:42,07/10/19,551,560,Timing Issue
+431,122,11.9,"Unable to find object with specified locator (""Id""=""gw-south-panel-toggleMinMax_float"")",7/10/2019 20:13,7/8/2019 17:16,7/8/2019 17:16,7/8/2019 17:16,7/10/2019 20:13,07/12/19,431,431,Automation Issue
+431,122,11.11,UnableToCreateProfileException,7/10/2019 20:13,7/8/2019 17:16,7/8/2019 17:16,7/8/2019 17:16,7/10/2019 20:13,07/11/19,431,495,Automation Issue
+495,122,10.2,"Verification Failed. Expected text: ""Step 6 of 6: Save and Assign Claim"" Not found in element",7/10/2019 20:18,7/8/2019 17:16,7/8/2019 17:16,7/8/2019 17:16,7/10/2019 20:18,07/10/19,431,495,Automation Issue
+495,122,10.3,"Verification Failed. Expected value: ""Name:'Ide_GWC_FindPolicy' ""No such attribute",7/10/2019 20:18,7/8/2019 17:16,7/8/2019 17:16,7/8/2019 17:16,7/10/2019 20:18,07/10/19,495,495,Application Issue
+495,122,10.4,"Verification Failed. Expected text: ""Step 6 of 6: Save and Assign Claim"" Not found in element",7/10/2019 20:18,7/8/2019 17:16,7/8/2019 17:16,7/8/2019 17:16,7/10/2019 20:18,07/11/19,495,495,Automation Issue
+495,122,10.5,ErrorInResponseException,7/10/2019 20:18,7/8/2019 17:16,7/8/2019 17:16,7/8/2019 17:16,7/10/2019 20:18,07/11/19,495,495,Automation Issue
+495,122,10.9,"Verification Failed. Expected text: ""Step 6 of 6: Save and Assign Claim"" Not found in element",7/10/2019 20:18,7/8/2019 17:16,7/8/2019 17:16,7/8/2019 17:16,7/10/2019 20:18,07/12/19,495,494,Automation Issue
+494,122,10.2,"no such element: Unable to locate element: {""method"":""CssSelector"",""selector"":""div[id=""FindPolicyScreen-FNOLWizardFindPolicyPanelSet-PolicyResultLV-0-Insured""]/div""}",7/10/2019 20:22,7/7/2019 17:16,7/7/2019 17:16,7/7/2019 17:16,7/10/2019 20:22,07/10/19,495,494,Automation Issue
+494,122,10.3,Information retrieval systems,7/10/2019 20:22,7/7/2019 17:16,7/7/2019 17:16,7/7/2019 17:16,7/10/2019 20:22,07/12/19,494,494,Automation Issue
+494,122,10.4,"no such element: Unable to locate element: {""method"":""xpath"",""selector"":""//div[@id=""Date_Of_Policy_applied""]/div/div""}",7/10/2019 20:22,7/7/2019 17:16,7/7/2019 17:16,7/7/2019 17:16,7/10/2019 20:22,07/12/19,494,494,Automation Issue
+494,122,10.5,"Verification Failed. Expected text: ""Step 6 of 6: Save and Assign Claim"" Not found in element",7/10/2019 20:22,7/7/2019 17:16,7/7/2019 17:16,7/7/2019 17:16,7/10/2019 20:22,07/11/19,494,494,Automation Issue
+494,122,10.9,"Verification Failed. Expected text: ""Step 6 of 6: Save and Assign Claim"" Not found in element",7/10/2019 20:22,7/7/2019 17:16,7/7/2019 17:16,7/7/2019 17:16,7/10/2019 20:22,07/11/19,494,505,Automation Issue
+505,122,9.3,Custome Database Exception,7/10/2019 20:26,7/7/2019 17:16,7/7/2019 17:16,7/7/2019 17:16,7/10/2019 20:26,07/10/19,494,505,Data related Issue
+505,122,9.12,Unable to set date: java.time.DateTimeException,7/11/2019 5:42,7/7/2019 17:16,7/7/2019 17:16,7/7/2019 17:16,7/11/2019 5:42,07/11/19,551,560,Timing Issue
+505,122,10.4,org.openqa.selenium.ElementNotSelectableException,7/10/2019 20:26,7/7/2019 17:16,7/7/2019 17:16,7/7/2019 17:16,7/10/2019 20:26,07/10/19,505,505,Application Issue
+505,122,10.6,"Unable to find object with specified locator (""Id""=""FNOLWizard-FNOLWizard_FindPolicyScreen-FNOLWizardFindPolicyPanelSet-PolicyResultLV-0-selectButton"")",7/10/2019 20:26,7/7/2019 17:16,7/7/2019 17:16,7/7/2019 17:16,7/10/2019 20:26,07/10/19,505,505,Automation Issue
+550,122,9.12,Unable to set date: java.time.DateTimeException,7/11/2019 5:42,7/7/2019 17:16,7/7/2019 17:16,7/7/2019 17:16,7/11/2019 5:42,07/10/19,551,560,Timing Issue
+504,122,9.7,"Unable to find object with specified locator (""Name""=""TripGenericExpensePopup-ClaimGenetricExpenceDetailDV-ClaimTripOtherDetailDV-CompanyName"")",7/10/2019 20:31,7/7/2019 17:16,7/7/2019 17:16,7/7/2019 17:16,7/10/2019 20:31,07/11/19,505,504,Automation Issue
+504,122,10.3,"A network-related or instance-specific error occurred while establishing a connection to SQL Server. The server was not found or was not accessible. Verify that the instance name is correct and that SQL Server is configured to allow remote connections. (provider: SQL Network Interfaces, error: 26 - Error Locating Server/Instance Specified)",7/10/2019 20:31,7/7/2019 17:16,7/7/2019 17:16,7/7/2019 17:16,7/10/2019 20:31,07/10/19,504,504,Latency related issue
+504,122,10.4,"Unable to find object with specified locator (""Id""=""FNOLWizard-FNOLWizard_FindPolicyScreen-FNOLWizardFindPolicyPanelSet-PolicyResultLV-0-selectButton"")",7/10/2019 20:31,7/7/2019 17:16,7/7/2019 17:16,7/7/2019 17:16,7/10/2019 20:31,07/10/19,504,504,Automation Issue
+504,122,10.6,Intra-enterprise and inter-enterprise integration Exception,7/10/2019 20:56,7/7/2019 17:16,7/7/2019 17:16,7/7/2019 17:16,7/10/2019 20:56,07/10/19,504,503,Infrastrature Issue
+504,122,10.8,InsecureCertificateException,7/10/2019 20:31,7/7/2019 17:16,7/7/2019 17:16,7/7/2019 17:16,7/10/2019 20:31,07/12/19,504,501,Automation Issue
+501,122,10.2,ODBC Exception error: 40 - Could not open a connection to SQL Server,7/10/2019 20:35,7/7/2019 17:16,7/7/2019 17:16,7/7/2019 17:16,7/10/2019 20:35,07/12/19,504,499,Infrastrature Issue
+499,122,6.2,"Provider: SQL Network Interfaces, error: 26 - Error Locating Server/Instance Specified",7/10/2019 20:37,7/7/2019 17:16,7/7/2019 17:16,7/7/2019 17:16,7/10/2019 20:37,07/12/19,501,500,Infrastrature Issue
+500,122,10.2,"Verification Failed. Expected text: ""Step 6 of 6: Save and Assign Claim"" Not found in element",7/10/2019 20:41,7/7/2019 17:16,7/7/2019 17:16,7/7/2019 17:16,7/10/2019 20:41,07/11/19,499,497,Automation Issue
+497,122,10.2,JsonException,7/10/2019 20:45,7/7/2019 17:16,7/7/2019 17:16,7/7/2019 17:16,7/10/2019 20:45,07/12/19,500,502,Automation Issue
+502,122,10.2,"Verification Failed. Expected text: ""Step 4 of 6: Add costs information"" Not found in element",7/10/2019 20:50,7/7/2019 17:16,7/7/2019 17:16,7/7/2019 17:16,7/10/2019 20:50,07/11/19,497,498,Automation Issue
+498,122,10.2,JsonException,7/10/2019 20:54,7/7/2019 17:16,7/7/2019 17:16,7/7/2019 17:16,7/10/2019 20:54,07/11/19,502,496,Automation Issue
+496,122,6.2,Intra-enterprise and inter-enterprise integration Exception,7/10/2019 20:56,7/7/2019 17:16,7/7/2019 17:16,7/7/2019 17:16,7/10/2019 20:56,07/12/19,498,503,Infrastrature Issue
+503,122,10.2,Information retrieval systems,7/10/2019 21:00,7/7/2019 17:16,7/7/2019 17:16,7/7/2019 17:16,7/10/2019 21:00,07/11/19,496,539,Automation Issue
+539,122,9.3,org.openqa.selenium.ElementNotSelectableException,7/10/2019 21:09,7/7/2019 17:16,7/7/2019 17:16,7/7/2019 17:16,7/10/2019 21:09,07/12/19,503,374,Application Issue
+374,122,9.3,"Verification Failed. Expected text: ""Step 6 of 6: Save and Assign Claim"" Not found in element",7/10/2019 22:17,7/7/2019 17:16,7/7/2019 17:16,7/7/2019 17:16,7/10/2019 22:17,07/10/19,539,373,Automation Issue
+373,122,9.3,JsonException,7/10/2019 22:21,7/7/2019 17:16,7/7/2019 17:16,7/7/2019 17:16,7/10/2019 22:21,07/11/19,374,372,Automation Issue
+550,122,9.12,Unable to set date: java.time.DateTimeException,7/11/2019 5:42,7/7/2019 17:16,7/7/2019 17:16,7/7/2019 17:16,7/11/2019 5:42,07/10/19,551,560,Timing Issue
+388,122,10.11,"Verification Failed. Expected text: ""Manual Handling"" Not found in element",7/10/2019 22:30,7/7/2019 17:16,7/7/2019 17:16,7/7/2019 17:16,7/10/2019 22:30,07/11/19,372,421,Automation Issue
+421,122,10.3,WebDriverException,7/10/2019 22:34,7/7/2019 17:16,7/7/2019 17:16,7/7/2019 17:16,7/10/2019 22:34,07/12/19,388,422,Automation Issue
+422,122,10.3,"Verification Failed. Expected text: ""Step 6 of 6: Save and Assign Claim"" Not found in element",7/10/2019 22:38,7/7/2019 17:16,7/7/2019 17:16,7/7/2019 17:16,7/10/2019 22:38,07/11/19,421,318,Automation Issue
+318,122,3.6,"no such element: Unable to locate element: {""method"":""xpath"",""selector"":""//div[@id=""FNOLWizard-FNOLWizard_FindPolicyScreen-FNOLWizardFindPolicyPanelSet-PolicyResultLV-0-Insured""]/div/div""}",7/10/2019 22:39,7/7/2019 17:16,7/7/2019 17:16,7/7/2019 17:16,7/10/2019 22:39,07/10/19,422,319,Automation Issue
+319,122,10.11,  (Session info: chrome=75.0.3770.100),7/10/2019 22:50,7/7/2019 17:16,7/7/2019 17:16,7/7/2019 17:16,7/10/2019 22:50,07/10/19,318,339,Timing Issue
+339,122,10.11,"  (Driver info: chromedriver=2.43.600210 (68dcf5eebde37173d4027fa8635e332711d2874a),platform=Windows NT 10.0.17134 x86_64) ",7/10/2019 22:55,7/7/2019 17:16,7/7/2019 17:16,7/7/2019 17:16,7/10/2019 22:55,07/10/19,319,338,Environment Issue
+338,122,9.3,Command duration or timeout: 0 milliseconds,7/10/2019 23:00,7/7/2019 17:16,7/7/2019 17:16,7/7/2019 17:16,7/10/2019 23:00,07/11/19,339,337,Timing Issue
+337,122,9.3,Software engineering,7/10/2019 23:04,7/7/2019 17:16,7/7/2019 17:16,7/7/2019 17:16,7/10/2019 23:04,07/11/19,338,340,Infrastrature Issue
+340,122,10.11,Software engineering,7/10/2019 23:10,7/7/2019 17:16,7/7/2019 17:16,7/7/2019 17:16,7/10/2019 23:10,07/12/19,337,415,Infrastrature Issue
+415,122,10.11,"System info: host: 'WEDWSVMT01XADU', ip: '10.94.133.25', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_211'",7/10/2019 23:40,7/7/2019 17:16,7/7/2019 17:16,7/7/2019 17:16,7/10/2019 23:40,07/10/19,340,417,Latency related issue
+417,122,10.11,Driver info: org.openqa.selenium.chrome.ChromeDriver,7/10/2019 23:46,7/7/2019 17:16,7/7/2019 17:16,7/7/2019 17:16,7/10/2019 23:46,07/11/19,415,416,Environment Issue
+416,122,10.11,"Capabilities {acceptInsecureCerts: false, acceptSslCerts: false, applicationCacheEnabled: false, browserConnectionEnabled: false, browserName: chrome, chrome: {chromedriverVersion: 2.43.600210 (68dcf5eebde371..., userDataDir: C:\Users\t01xadu\AppData\Lo...}, cssSelectorsEnabled: true, databaseEnabled: false, goog:chromeOptions: {debuggerAddress: localhost:62928}, handlesAlerts: true, hasTouchScreen: false, javascriptEnabled: true, locationContextEnabled: true, mobileEmulationEnabled: false, nativeEvents: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, rotatable: false, setWindowRect: true, takesHeapSnapshot: true, takesScreenshot: true, unexpectedAlertBehaviour: , unhandledPromptBehavior: , version: 75.0.3770.100, webStorageEnabled: true}",7/10/2019 23:52,7/7/2019 17:16,7/7/2019 17:16,7/7/2019 17:16,7/10/2019 23:52,07/12/19,417,423,Environment Issue
+353,122,9.3,"Element info: {Using=xpath, value=//div[@id=""FNOLWizard-FNOLWizard_FindPolicyScreen-FNOLWizardFindPolicyPanelSet-PolicyResultLV-0-Insured""]/div/div}",7/11/2019 0:05,7/7/2019 17:16,7/7/2019 17:16,7/7/2019 17:16,7/11/2019 0:05,07/11/19,423,355,Automation Issue
+355,122,9.3,UnableToCreateProfileException,7/11/2019 0:09,7/7/2019 17:16,7/7/2019 17:16,7/7/2019 17:16,7/11/2019 0:09,07/12/19,353,354,Automation Issue
+354,122,9.3,"Verification Failed. Expected text: ""Straight Payment"" Not found in element",7/11/2019 0:13,7/7/2019 17:16,7/7/2019 17:16,7/7/2019 17:16,7/11/2019 0:13,07/12/19,355,424,Automation Issue
+424,122,10.3,"A network-related or instance-specific error occurred while establishing a connection to SQL Server. The server was not found or was not accessible. Verify that the instance name is correct and that SQL Server is configured to allow remote connections. (provider: Named Pipes Provider, error: 40 - Could not open a connection to SQL Server)",7/11/2019 0:34,7/7/2019 17:16,7/7/2019 17:16,7/7/2019 17:16,7/11/2019 0:34,07/11/19,354,380,Infrastrature Issue
+380,122,9.3,ErrorInResponseException,7/11/2019 0:38,7/7/2019 17:16,7/7/2019 17:16,7/7/2019 17:16,7/11/2019 0:38,07/12/19,424,378,Automation Issue
+378,122,9.3,"Verification Failed. Expected text: ""Straight Payment"" Not found in element",7/11/2019 0:42,7/7/2019 17:16,7/7/2019 17:16,7/7/2019 17:16,7/11/2019 0:42,07/10/19,380,377,Automation Issue
+377,122,9.3,JsonException,7/11/2019 0:45,7/7/2019 17:16,7/7/2019 17:16,7/7/2019 17:16,7/11/2019 0:45,07/10/19,378,379,Automation Issue
+379,122,9.3,org.openqa.selenium.ElementNotSelectableException,7/11/2019 0:49,7/7/2019 17:16,7/7/2019 17:16,7/7/2019 17:16,7/11/2019 0:49,07/11/19,377,327,Application Issue
+327,122,3.6,"Verification Failed. Expected text: ""Straight Payment"" Not found in element",7/11/2019 0:59,7/7/2019 17:16,7/7/2019 17:16,7/7/2019 17:16,7/11/2019 0:59,07/10/19,379,327,Automation Issue
+327,122,3.7,"Verification Failed. Expected text: ""Step 6 of 6: Save and Assign Claim"" Not found in element",7/11/2019 0:59,7/7/2019 17:16,7/7/2019 17:16,7/7/2019 17:16,7/11/2019 0:59,07/11/19,327,327,Automation Issue
+327,122,5.5,IllegalKeyException,7/11/2019 1:00,7/7/2019 17:16,7/7/2019 17:16,7/7/2019 17:16,7/11/2019 1:00,07/10/19,327,327,Data related Issue
+327,122,6.2,"Verification Failed. Expected text: ""Step 6 of 6: Save and Assign Claim"" Not found in element",7/11/2019 1:01,7/7/2019 17:16,7/7/2019 17:16,7/7/2019 17:16,7/11/2019 1:01,07/11/19,327,326,Automation Issue
+326,122,9.3,InsecureCertificateException,7/11/2019 1:04,7/7/2019 17:16,7/7/2019 17:16,7/7/2019 17:16,7/11/2019 1:04,07/10/19,327,325,Automation Issue
+325,122,5.1,"Verification Failed. Expected text: ""Step 6 of 6: Save and Assign Claim"" Not found in element",7/11/2019 1:08,7/7/2019 17:16,7/7/2019 17:16,7/7/2019 17:16,7/11/2019 1:08,07/11/19,326,328,Automation Issue
+328,122,9.3,Verification Failed. Expected Number: 34253435 Airthematic Exception,7/11/2019 1:11,7/7/2019 17:16,7/7/2019 17:16,7/7/2019 17:16,7/11/2019 1:11,07/11/19,325,329,Application Issue
+329,122,10.11,"Verification Failed. Expected text: ""Step 5 of 3: Policy referenc number"" Not found in element",7/11/2019 1:17,7/7/2019 17:16,7/7/2019 17:16,7/7/2019 17:16,7/11/2019 1:17,07/11/19,328,426,Automation Issue
+426,122,5.1,Information retrieval systems,7/11/2019 1:20,7/7/2019 17:16,7/7/2019 17:16,7/7/2019 17:16,7/11/2019 1:20,07/12/19,329,425,Automation Issue
+425,122,10.3,"Verification Failed. Expected text: ""Step 6 of 6: Save and Assign Claim"" Not found in element",7/11/2019 1:24,7/7/2019 17:16,7/7/2019 17:16,7/7/2019 17:16,7/11/2019 1:24,07/10/19,426,429,Automation Issue
+429,122,10.3,InsecureCertificateException,7/11/2019 1:28,7/7/2019 17:16,7/7/2019 17:16,7/7/2019 17:16,7/11/2019 1:28,07/11/19,425,430,Automation Issue
+430,122,10.3,Effective Date:  01-07-2014 has been created and stored in DT_EFFECTIVE_DATE,7/11/2019 1:32,7/7/2019 17:16,7/7/2019 17:16,7/7/2019 17:16,7/11/2019 1:32,07/12/19,429,427,Timing Issue
+427,122,10.3,Custome Database Exception,7/11/2019 1:35,7/7/2019 17:16,7/7/2019 17:16,7/7/2019 17:16,7/11/2019 1:35,07/12/19,430,428,Data related Issue
+428,122,10.3,"Verification Failed. Expected text: ""Step 3 of 6: Add claim information"" Not found in element",7/11/2019 1:39,7/7/2019 17:16,7/7/2019 17:16,7/7/2019 17:16,7/11/2019 1:39,07/12/19,427,420,Automation Issue
+420,122,10.3,Software engineering,7/11/2019 1:43,7/7/2019 17:16,7/7/2019 17:16,7/7/2019 17:16,7/11/2019 1:43,07/12/19,428,331,Infrastrature Issue
+331,122,9.3,Named System exceptions ,7/11/2019 1:47,7/7/2019 17:16,7/7/2019 17:16,7/7/2019 17:16,7/11/2019 1:47,07/12/19,420,330,Automation Issue
+330,122,9.3,ErrorInResponseException,7/11/2019 1:51,7/7/2019 17:16,7/7/2019 17:16,7/7/2019 17:16,7/11/2019 1:51,07/12/19,331,323,Automation Issue
+323,122,9.3,WebDriverException,7/11/2019 2:06,7/7/2019 17:16,7/7/2019 17:16,7/7/2019 17:16,7/11/2019 2:06,07/12/19,330,335,Automation Issue
+335,122,9.3,Named System exceptions ,7/11/2019 2:10,7/7/2019 17:16,7/7/2019 17:16,7/7/2019 17:16,7/11/2019 2:10,07/10/19,323,334,Automation Issue
+334,122,9.3,"Verification Failed. Expected text: ""Step 6 of 6: Save and Assign Claim"" Not found in element",7/11/2019 2:14,7/7/2019 17:16,7/7/2019 17:16,7/7/2019 17:16,7/11/2019 2:14,07/12/19,335,537,Automation Issue
+537,122,9.3,Information retrieval systems,7/11/2019 2:17,7/7/2019 17:16,7/7/2019 17:16,7/7/2019 17:16,7/11/2019 2:17,07/11/19,334,538,Automation Issue
+538,122,9.3,ErrorInResponseException,7/11/2019 2:21,7/7/2019 17:16,7/7/2019 17:16,7/7/2019 17:16,7/11/2019 2:21,07/12/19,537,536,Automation Issue
+536,122,9.3,"Verification Failed. Expected text: ""Step 6 of 6: Save and Assign Claim"" Not found in element",7/11/2019 2:25,7/7/2019 17:16,7/7/2019 17:16,7/7/2019 17:16,7/11/2019 2:25,07/12/19,538,482,Automation Issue
+482,122,5.1,"org.openqa.selenium.InvalidSelectorException: (""Name""=""TripAccommodationAddressPopup-ClaimPolicyTripAccommodationDetailDV-ClaimTripAccommodationDetailDV-Description"")",7/11/2019 2:29,7/7/2019 17:16,7/7/2019 17:16,7/7/2019 17:16,7/11/2019 2:29,07/10/19,536,491,Automation Issue
+491,122,5.1,ErrorInResponseException,7/11/2019 2:38,7/7/2019 17:16,7/7/2019 17:16,7/7/2019 17:16,7/11/2019 2:38,07/11/19,482,523,Automation Issue
+523,122,9.8,"Verification Failed. Expected text: ""Step 6 of 6: Save and Assign Claim"" Not found in element",7/11/2019 3:26,7/7/2019 17:16,7/7/2019 17:16,7/7/2019 17:16,7/11/2019 3:26,07/12/19,491,522,Automation Issue
+522,122,9.8,JsonException,7/11/2019 3:31,7/7/2019 17:16,7/7/2019 17:16,7/7/2019 17:16,7/11/2019 3:31,07/10/19,523,531,Automation Issue
+531,122,9.3,"Verification Failed. Expected text: ""Step 6 of 6: Save and Assign Claim"" Not found in element",7/11/2019 3:35,7/7/2019 17:16,7/7/2019 17:16,7/7/2019 17:16,7/11/2019 3:35,07/10/19,522,530,Automation Issue
+530,122,9.8,org.openqa.selenium.ElementNotVisibleException:{class='Data_policiy '},7/11/2019 3:40,7/7/2019 17:16,7/7/2019 17:16,7/7/2019 17:16,7/11/2019 3:40,07/11/19,531,527,Application Issue
+527,122,9.8,"Verification Failed. Expected text: ""Step 6 of 6: Save and Assign Claim"" Not found in element",7/11/2019 3:44,7/7/2019 17:16,7/7/2019 17:16,7/7/2019 17:16,7/11/2019 3:44,07/11/19,530,526,Automation Issue
+526,122,9.8,DAO Exception,7/11/2019 4:03,7/6/2019 17:16,7/6/2019 17:16,7/6/2019 17:16,7/11/2019 4:03,07/12/19,527,524,Data related Issue
+528,122,9.8,"Verification Failed. Expected text: ""Step 6 of 6: Save and Assign Claim"" Not found in element",7/11/2019 4:13,7/6/2019 17:16,7/6/2019 17:16,7/6/2019 17:16,7/11/2019 4:13,07/11/19,524,525,Automation Issue
+525,122,9.8,UnableToCreateProfileException,7/11/2019 4:17,7/6/2019 17:16,7/6/2019 17:16,7/6/2019 17:16,7/11/2019 4:17,07/10/19,528,532,Automation Issue
+532,122,9.8,TimeoutException,7/11/2019 4:22,7/6/2019 17:16,7/6/2019 17:16,7/6/2019 17:16,7/11/2019 4:22,07/10/19,525,529,Automation Issue
+529,122,9.8,"Unable to find object with specified locator (""Name""=""TripAccommodationAddressPopup-ClaimPolicyTripAccommodationDetailDV-ClaimTripAccommodationDetailDV-Description"")",7/11/2019 4:27,7/6/2019 17:16,7/6/2019 17:16,7/6/2019 17:16,7/11/2019 4:27,07/12/19,532,432,Automation Issue
+432,122,11.11,Named System exceptions ,7/11/2019 4:39,7/6/2019 17:16,7/6/2019 17:16,7/6/2019 17:16,7/11/2019 4:39,07/10/19,529,441,Automation Issue
+441,122,11.11,ErrorInResponseException,7/11/2019 4:51,7/6/2019 17:16,7/6/2019 17:16,7/6/2019 17:16,7/11/2019 4:51,07/12/19,432,438,Automation Issue
+438,122,11.11,"Unable to find object with specified locator (""Name""=""TripAccommodationAddressPopup-ClaimPolicyTripAccommodationDetailDV-ClaimTripAccommodationDetailDV-Description"")",7/11/2019 4:58,7/6/2019 17:16,7/6/2019 17:16,7/6/2019 17:16,7/11/2019 4:58,07/10/19,441,437,Automation Issue
+437,122,11.11,Custome Database Exception,7/11/2019 5:04,7/6/2019 17:16,7/6/2019 17:16,7/6/2019 17:16,7/11/2019 5:04,07/10/19,438,435,Data related Issue
+435,122,11.11,"Unable to find object with specified locator (""LinkText""=""TripAccommodationAddress"")",7/11/2019 5:10,7/6/2019 17:16,7/6/2019 17:16,7/6/2019 17:16,7/11/2019 5:10,07/10/19,437,439,Automation Issue
+439,122,11.11,"Unable to find object with specified locator (""Name""=""TripAccommodationAddressPopup-ClaimPolicyTripAccommodationDetailDV-ClaimTripAccommodationDetailDV-Description"")",7/11/2019 5:16,7/6/2019 17:16,7/6/2019 17:16,7/6/2019 17:16,7/11/2019 5:16,07/11/19,435,434,Automation Issue
+434,122,11.11,SchemaViolationEception,7/11/2019 5:28,7/6/2019 17:16,7/6/2019 17:16,7/6/2019 17:16,7/11/2019 5:28,07/10/19,439,440,Environment Issue
+440,122,3.6,"Unable to find object with specified locator (""Name""=""TripAccommodationAddressPopup-ClaimPolicyTripAccommodationDetailDV-ClaimTripAccommodationDetailDV-Description"")",7/11/2019 5:29,7/6/2019 17:16,7/6/2019 17:16,7/6/2019 17:16,7/11/2019 5:29,07/10/19,434,440,Automation Issue
+440,122,3.7,NO_DATA_FOUND,7/11/2019 5:29,7/6/2019 17:16,7/6/2019 17:16,7/6/2019 17:16,7/11/2019 5:29,07/11/19,440,440,Data related Issue
+440,122,5.5,NO_DATA_FOUND,7/11/2019 5:30,7/6/2019 17:16,7/6/2019 17:16,7/6/2019 17:16,7/11/2019 5:30,07/12/19,440,440,Data related Issue
+440,122,6.2,"Verification Failed. Expected text: ""Straight Payment"" Not found in element",7/11/2019 5:31,7/6/2019 17:16,7/6/2019 17:16,7/6/2019 17:16,7/11/2019 5:31,07/11/19,440,480,Automation Issue
+480,122,6.2,UnableToCreateProfileException,7/11/2019 5:33,7/6/2019 17:16,7/6/2019 17:16,7/6/2019 17:16,7/11/2019 5:33,07/11/19,440,551,Automation Issue
+551,122,9.12,"Verification Failed. Expected text: ""Straight Payment"" Not found in element",7/11/2019 5:38,7/6/2019 17:16,7/6/2019 17:16,7/6/2019 17:16,7/11/2019 5:38,07/10/19,480,550,Automation Issue
+550,122,9.12,Unable to set date: java.time.DateTimeException,7/11/2019 5:42,7/6/2019 17:16,7/6/2019 17:16,7/6/2019 17:16,7/11/2019 5:42,07/11/19,551,560,Timing Issue
+560,122,9.3,"Verification Failed. Expected text: ""Straight Payment"" Not found in element",7/11/2019 5:46,7/6/2019 17:16,7/6/2019 17:16,7/6/2019 17:16,7/11/2019 5:46,07/10/19,550,559,Automation Issue
+559,122,9.12,JsonException,7/11/2019 5:51,7/6/2019 17:16,7/6/2019 17:16,7/6/2019 17:16,7/11/2019 5:51,07/12/19,560,556,Automation Issue
+556,122,9.12,"Verification Failed. Expected text: ""Straight Payment"" Not found in element",7/11/2019 5:56,7/6/2019 17:16,7/6/2019 17:16,7/6/2019 17:16,7/11/2019 5:56,07/12/19,559,555,Automation Issue
+555,122,9.12,ErrorInResponseException,7/11/2019 6:01,7/6/2019 17:16,7/6/2019 17:16,7/6/2019 17:16,7/11/2019 6:01,07/10/19,556,553,Automation Issue
+553,122,9.12,TimeoutException,7/11/2019 6:06,7/6/2019 17:16,7/6/2019 17:16,7/6/2019 17:16,7/11/2019 6:06,07/11/19,555,557,Automation Issue
+557,122,9.12,TimeoutException,7/11/2019 6:11,7/6/2019 17:16,7/6/2019 17:16,7/6/2019 17:16,7/11/2019 6:11,07/12/19,553,554,Automation Issue
+554,122,9.12,"Verification Failed. Expected text: ""Step 3 of 6: Add claim information"" Not found in element",7/11/2019 6:15,7/6/2019 17:16,7/6/2019 17:16,7/6/2019 17:16,7/11/2019 6:15,07/11/19,557,552,Automation Issue
+552,122,9.12,Custome Database Exception,7/11/2019 6:20,7/6/2019 17:16,7/6/2019 17:16,7/6/2019 17:16,7/11/2019 6:20,07/10/19,554,558,Data related Issue
+558,122,9.12,InsecureCertificateException,7/11/2019 6:24,7/6/2019 17:16,7/6/2019 17:16,7/6/2019 17:16,7/11/2019 6:24,07/12/19,552,507,Automation Issue
+507,122,10.2,"Unable to find object with specified locator (""Id""=""FNOLWizard-Next"")",7/11/2019 6:28,7/6/2019 17:16,7/6/2019 17:16,7/6/2019 17:16,7/11/2019 6:28,07/10/19,558,506,Automation Issue
+506,122,10.2,"Inavlid selector:Unable to locate element: {""method"":""xpath"",""selector"":""//div[@id=""FindPolicyScreen-FNOLWizardFindPolicyPanelSet-PolicyResultLV-0-Insured""]/div/div""}",7/11/2019 6:33,7/6/2019 17:16,7/6/2019 17:16,7/6/2019 17:16,7/11/2019 6:33,07/10/19,507,515,Automation Issue
+515,122,9.3,"Unable to find object with specified locator (""Id""=""FNOLWizard-Next"")",7/11/2019 6:36,7/6/2019 17:16,7/6/2019 17:16,7/6/2019 17:16,7/11/2019 6:36,07/10/19,506,514,Automation Issue
+514,122,9.3,InsecureCertificateException,7/11/2019 6:40,7/6/2019 17:16,7/6/2019 17:16,7/6/2019 17:16,7/11/2019 6:40,07/12/19,515,511,Automation Issue
+511,122,10.2,"Unable to find object with specified locator (""Id""=""FNOLWizard-Next"")",7/11/2019 6:45,7/6/2019 17:16,7/6/2019 17:16,7/6/2019 17:16,7/11/2019 6:45,07/11/19,514,510,Automation Issue
+510,122,10.2,org.openqa.selenium.StaleElementReferenceException: Web element no longer present in web page{'xpath'://select[@id=policy_type]},7/11/2019 7:18,7/6/2019 17:16,7/6/2019 17:16,7/6/2019 17:16,7/11/2019 7:18,07/12/19,511,508,Application Issue
+508,122,10.2,"Unable to find object with specified locator (""Id""=""FNOLWizard-Next"")",7/11/2019 7:22,7/6/2019 17:16,7/6/2019 17:16,7/6/2019 17:16,7/11/2019 7:22,07/12/19,510,512,Automation Issue
+512,122,10.2,DUP_VAL_ON_INDEX Exception,7/11/2019 7:27,7/6/2019 17:16,7/6/2019 17:16,7/6/2019 17:16,7/11/2019 7:27,07/12/19,508,509,Data related Issue
+509,122,10.2,"Unable to find object with specified locator (""Id""=""FNOLWizard-Next"")",7/11/2019 7:31,7/6/2019 17:16,7/6/2019 17:16,7/6/2019 17:16,7/11/2019 7:31,07/11/19,512,516,Automation Issue
+516,122,10.2,"Unable to find object with specified locator (""Id""=""FNOLWizard-Next"")",7/11/2019 7:35,7/6/2019 17:16,7/6/2019 17:16,7/6/2019 17:16,7/11/2019 7:35,07/10/19,509,513,Automation Issue
+513,122,10.2,"Verification Failed. Expected text: ""Step 6 of 6: Save and Assign Claim"" Not found in element",7/11/2019 7:41,7/6/2019 17:16,7/6/2019 17:16,7/6/2019 17:16,7/11/2019 7:41,07/11/19,516,469,Automation Issue
+469,122,10.2,"System info: host: 'WEDWSVMT01XADU', ip: '10.94.133.25', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_211'",7/11/2019 7:46,7/6/2019 17:16,7/6/2019 17:16,7/6/2019 17:16,7/11/2019 7:46,07/10/19,513,468,Environment Issue
+468,122,10.2,DUP_VAL_ON_INDEX Exception,7/11/2019 7:51,7/6/2019 17:16,7/6/2019 17:16,7/6/2019 17:16,7/11/2019 7:51,07/12/19,469,478,Data related Issue
+478,122,9.3,WebDriverException,7/11/2019 7:55,7/6/2019 17:16,7/6/2019 17:16,7/6/2019 17:16,7/11/2019 7:55,07/11/19,468,477,Automation Issue
+477,122,10.2,"Verification Failed. Expected text: ""Step 6 of 6: Save and Assign Claim"" Not found in element",7/11/2019 8:00,7/6/2019 17:16,7/6/2019 17:16,7/6/2019 17:16,7/11/2019 8:00,07/10/19,478,474,Automation Issue
+474,122,10.2,LimitExceedException,7/11/2019 8:06,7/6/2019 17:16,7/6/2019 17:16,7/6/2019 17:16,7/11/2019 8:06,07/10/19,477,479,Environment Issue
+479,122,10.2,UnableToCreateProfileException,7/11/2019 8:11,7/6/2019 17:16,7/6/2019 17:16,7/6/2019 17:16,7/11/2019 8:11,07/10/19,474,473,Automation Issue
+473,122,10.2,"Verification Failed. Expected text: ""Step 6 of 6: Save and Assign Claim"" Not found in element",7/11/2019 8:17,7/6/2019 17:16,7/6/2019 17:16,7/6/2019 17:16,7/11/2019 8:17,07/11/19,479,471,Automation Issue
+471,122,10.2,Using of Method in appropriate time:illegalstatmentException,7/11/2019 8:21,7/6/2019 17:16,7/6/2019 17:16,7/6/2019 17:16,7/11/2019 8:21,07/12/19,473,475,Application Issue
+475,122,10.2,Using of Method in appropriate time:illegalstatmentException,7/11/2019 8:27,7/6/2019 17:16,7/6/2019 17:16,7/6/2019 17:16,7/11/2019 8:27,07/12/19,471,472,Application Issue
+472,122,10.2,"Verification Failed. Expected text: ""Step 6 of 6: Save and Assign Claim"" Not found in element",7/11/2019 8:33,7/6/2019 17:16,7/6/2019 17:16,7/6/2019 17:16,7/11/2019 8:33,07/10/19,475,470,Automation Issue
+470,122,10.2,"Unable to find object with specified locator (""Name""=""FNOLWizard-FullWizardStepSet-FNOLWizard_CreditCard_TCOScreen-OtherInsuranceCompany_TCODV-insurance_company"")",7/11/2019 8:38,7/6/2019 17:16,7/6/2019 17:16,7/6/2019 17:16,7/11/2019 8:38,07/10/19,472,476,Automation Issue
+476,122,11.11,InsecureCertificateException,7/11/2019 8:44,7/6/2019 17:16,7/6/2019 17:16,7/6/2019 17:16,7/11/2019 8:44,07/10/19,470,443,Automation Issue
+443,122,2.2,"Verification Failed. Expected text: ""Step 4 of 6: Add costs information"" Not found in element",7/11/2019 8:45,7/6/2019 17:16,7/6/2019 17:16,7/6/2019 17:16,7/11/2019 8:45,07/11/19,476,389,Automation Issue
+389,122,10.11,Information retrieval systems,7/11/2019 9:09,7/6/2019 17:16,7/6/2019 17:16,7/6/2019 17:16,7/11/2019 9:09,07/12/19,443,320,Automation Issue
+320,122,10.11,AuthenticationNotSupportedException,7/11/2019 9:15,7/6/2019 17:16,7/6/2019 17:16,7/6/2019 17:16,7/11/2019 9:15,07/11/19,389,341,Infrastrature Issue
+341,122,10.11,"Unable to find object with specified locator (""Name""=""FNOLWizard-FullWizardStepSet-FNOLWizard_CreditCard_TCOScreen-OtherInsuranceCompany_TCODV-insurance_company"")",7/11/2019 9:21,7/6/2019 17:16,7/6/2019 17:16,7/6/2019 17:16,7/11/2019 9:21,07/10/19,320,348,Automation Issue
+348,122,10.11,UnableToCreateProfileException,7/11/2019 9:32,7/6/2019 17:16,7/6/2019 17:16,7/6/2019 17:16,7/11/2019 9:32,07/11/19,341,351,Automation Issue
+351,122,3.6,"Unable to find object with specified locator (""Name""=""TCODV-insurance_company"")",7/11/2019 9:34,7/6/2019 17:16,7/6/2019 17:16,7/6/2019 17:16,7/11/2019 9:34,07/12/19,348,350,Automation Issue
+350,122,10.11,InsecureCertificateException,7/11/2019 9:40,7/6/2019 17:16,7/6/2019 17:16,7/6/2019 17:16,7/11/2019 9:40,07/11/19,351,336,Automation Issue
+336,122,10.11,"Unable to find object with specified locator (""Name""=""FNOLWizard-FullWizardStepSet-FNOLWizard_CreditCard_TCOScreen-OtherInsuranceCompany_TCODV-insurance_company"")",7/11/2019 10:21,7/6/2019 17:16,7/6/2019 17:16,7/6/2019 17:16,7/11/2019 10:21,07/11/19,350,NULL,Automation Issue
